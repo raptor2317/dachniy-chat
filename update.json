@@ -1,8 +1,9 @@
 {
-  "latestVersion": "v3.01",
-  "latestVersionCode": 90000000,
-  "url": "https://github.com/raptor2317/dachniy-chat/releases/download/v3.01/dachniy-chat-universal-release.apk",
+  "latestVersion": "v3.02",
+  "latestVersionCode": 50000302,
+  "url": "https://github.com/raptor2317/dachniy-chat/releases/download/v3.01/vector-gplay-universal-release.apk",
   "releaseNotes": [
+    "- Добавлено автообновление",
     "- Исправлен серый экран при входящем видеозвонке",
     "- Обновлены библиотеки"
   ]
